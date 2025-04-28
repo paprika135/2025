@@ -1,0 +1,14 @@
+{
+  "name": "socket",
+  "version": "1.0.0",
+  "main": "app.js",
+  "author": "weizhu0321",
+  "license": "MIT",
+  "type": "module",
+  "scripts": {
+    "dev":"nodemon app.js"
+  },
+  "dependencies": {
+    "socket.io": "^4.8.1"
+  }
+}
